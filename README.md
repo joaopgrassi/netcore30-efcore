@@ -2,6 +2,8 @@
 
 A sample MVC app which uses the latest preview (currently 7) of .NET SDK 3.0 together with EF Core. 
 
+This is to use as a base for answering this SO question: [I can't run migration (with .net core 3.0 and entity framework)](https://stackoverflow.com/questions/57393678/i-cant-run-migration-with-net-core-3-0-and-entity-framework/57394824#57394824)
+
 ## Requirements
 
 - .NET SDK: `3.0.100-preview7-012821`
